@@ -17,7 +17,7 @@
 
 🔭 **Current Focus**
 
--Learning web development 
+- Learning web development 
 - Learning advanced **ML concepts and practical implementations**  
 
 ---
